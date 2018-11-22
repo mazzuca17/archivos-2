@@ -1,0 +1,4 @@
+Alumnos aprobados:
+DNI: 44321115 | Promedio: 7
+DNI: 45231213 | Promedio: 9
+DNI: 45491862 | Promedio: 8
