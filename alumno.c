@@ -7,9 +7,10 @@
         struct alumno_t alumno;
         int f_leer;
 
-        FILE* archivo_alumnos = fopen(path,"r");
+        FILE* archivo_alumnos; 
+         archivo_alumnos = fopen(path,"r");
 
-        int f_leer;
+        
         if(!archivo_alumnos)
         {
             printf("Error al abrir el archivo");
